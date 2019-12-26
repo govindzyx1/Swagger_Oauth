@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="OA-VarifyAcessTokenSwag" version="SHA-512:f46bfaca6e9dcbb0afb4e4826a7a51af5fbbfd38202f78c08eb6eb2f3a865dd1227846ed83ee75f803bb72a989879e58f6008baaf7f48051cc0ff631221ebbee"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c57db2be0471287c74f2c7e0979fcda084d4e3245d3f50143f14573c16fcf21b16cc5efb0a5d481eef0a6da65a7be8a0a4cb357d3f54bae93ba1a70598084fb0"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="openapi://association.json" version="SHA-512:a534c795de01f4368d8baa1bd732c16f91bab1d7526245696d3ef804291f3632f091ab309334a3ac62adcd10dbc0cd21740e1d0335fa400f1af34347e0a5cd28"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:ce954c1e404ff8a0a6ae27af7772423b0068484344e0743722ede25f10676628bbfcdfeadaf61da9e044d30c248e3111158a174b69523236827e12836fc45fb4"/>
+    </TargetEndpoints>
+</Manifest>
